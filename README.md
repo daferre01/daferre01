@@ -10,6 +10,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daferre01&icon=0&color=6)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=react"/>
 ## 🌐 Puedes contactarme por:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daferre01/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
