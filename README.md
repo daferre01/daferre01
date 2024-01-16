@@ -3,8 +3,14 @@
 ## 🏆 GitHub Trofeos
 ![](https://github-profile-trophy.vercel.app/?username=daferre01&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 ## 📊 Estadísticas GitHub:
-![](https://github-readme-streak-stats.herokuapp.com/?user=daferre01&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daferre01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daferre01&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daferre01&theme=react" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daferre01&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daferre01&theme=react" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daferre01&theme=react" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=react"/>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=react"/>
 
 ## 🌐 Puedes contactarme por:
