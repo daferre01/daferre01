@@ -4,9 +4,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=daferre01&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 ## 📊 Estadísticas GitHub:
   <div class="image-container">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daferre01&theme=2077" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daferre01&theme=react" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daferre01&theme=2077" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daferre01&theme=react" height="180em" />
   </div>
 
