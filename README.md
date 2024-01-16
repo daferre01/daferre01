@@ -7,10 +7,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=daferre01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daferre01&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daferre01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=daferre01&icon=0&color=6)](https://visitcount.itsvg.in)
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=react"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Puedes contactarme por:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daferre01/) 
+[![](https://visitcount.itsvg.in/api?id=daferre01&icon=0&color=6)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=react"/>
+
