@@ -7,7 +7,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daferre01&theme=react" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daferre01&theme=react" height="180em" />
   </div>
-
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=react"/>
 ## 🌐 Puedes contactarme por:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daferre01/) 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
