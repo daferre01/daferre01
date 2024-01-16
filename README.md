@@ -3,7 +3,6 @@
 ## 🏆 GitHub Trofeos
 ![](https://github-profile-trophy.vercel.app/?username=daferre01&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 # 📊 Estadísticas GitHub:
-![](https://github-readme-stats.vercel.app/api?username=daferre01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daferre01&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daferre01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=react"/>
