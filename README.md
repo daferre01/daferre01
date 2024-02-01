@@ -1,5 +1,5 @@
 
-<h1 align="center">Holaa 👋, Soy Daferre01</h1>
+<h1 align="center">Holaa 👋,</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daferre01&label=Profile%20views&color=0e75b6&style=flat" alt="daferre01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daferre01&theme=onedark" alt="daferre01" /></a> </p>
