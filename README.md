@@ -4,7 +4,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=daferre01&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 ## 📊 Estadísticas GitHub:
 ![daferre01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daferre01&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
- 
+![daferre01's Datos](https://github-readme-streak-stats.herokuapp.com/?user=daferre01&theme=tokyonight&hide_border=true)
 
 ## 🌐 Puedes contactarme por:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daferre01/) 
