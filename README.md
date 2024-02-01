@@ -1,4 +1,9 @@
- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+Generate Successfully
+Awesome Github Readme Generator
+
+Awesome Github Profile README.md Generator
+Star This Repository
+Fork This Repository
 <h1 align="center">Holaa 👋, Soy Daferre01</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daferre01&label=Profile%20views&color=0e75b6&style=flat" alt="daferre01" /> </p>
 
@@ -50,4 +55,29 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daferre01&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=one-dark"/>
+Support
+Are you using the tool and happy with it to create your GitHub Repository?
+Please Don't Forget to Star This Repository
+FlowBite LogoGithub Readme Generator
+Resources
+
+    Github Readme Generator
+    Source Code
+
+Follow us
+
+    Github
+    Linkedin
+
+Legal
+
+    Privacy Policy
+    Terms & Conditions
+
+© 2023 . All Rights Reserved.Made ❤️ by Sashen Jayathilaka
+Facebook page
+Instagram page
+Twitter page
+GitHub account
+Dribbble account
