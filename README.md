@@ -56,28 +56,4 @@ Fork This Repository
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=daferre01&theme=one-dark"/>
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
-Please Don't Forget to Star This Repository
-FlowBite LogoGithub Readme Generator
-Resources
 
-    Github Readme Generator
-    Source Code
-
-Follow us
-
-    Github
-    Linkedin
-
-Legal
-
-    Privacy Policy
-    Terms & Conditions
-
-© 2023 . All Rights Reserved.Made ❤️ by Sashen Jayathilaka
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
