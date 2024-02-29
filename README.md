@@ -34,7 +34,6 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daferre01&layout=compact&theme=onedark" alt=daferre01 />
 <div align="center">
 <a href="https://github.com/daferre01">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daferre01&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daferre01&theme=2077" height="180em" />
 </div>
 
