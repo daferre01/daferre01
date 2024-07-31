@@ -1,6 +1,6 @@
 # 👋 Hello! I'm David Fernández Reboredo
 
-![GitHub](https://img.shields.io/github/followers/daferre01?label=Follow&style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Fern%C3%A1ndez%20Reboredo-blue?logo=linkedin) ![Portfolio](https://img.shields.io/badge/Portfolio-daferre01.es-green?logo=google-chrome)
+![GitHub](https://img.shields.io/github/followers/daferre01?label=Follow&style=social) 
 
 ## 🎯 Professional Objective
 
