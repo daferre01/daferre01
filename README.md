@@ -1,26 +1,69 @@
+# 👋 ¡Hola! Soy David Fernández Reboredo
 
-<h1 align="center">Welcome👋,</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daferre01&label=Profile%20views&color=0e75b6&style=flat" alt="daferre01" /> </p>
+![GitHub](https://img.shields.io/github/followers/daferre01?label=Follow&style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Fern%C3%A1ndez%20Reboredo-blue?logo=linkedin) ![Portfolio](https://img.shields.io/badge/Portfolio-daferre01.es-green?logo=google-chrome)
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/daferre01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 🎯 Objetivo Profesional
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-</div>
+Optimizar sistemas y procesos, asegurar la calidad del software y contribuir a proyectos innovadores para impulsar el desarrollo tecnológico de la empresa. Me especializo en:
 
+- Desarrollo de software
+- Inteligencia Artificial
+- Procesamiento de Imágenes y Videos
+
+## 🎓 Formación Académica
+
+- **2023-2024:** Grado de Especialización en Big Data e Inteligencia Artificial  
+  *I.E.S Fernando Wirtz, A Coruña.*
+  
+- **2021-2023:** Grado Superior en Desarrollador de Aplicaciones Multiplataforma  
+  *C.I.F.P A Carballeira, Ourense.*
+  
+- **2019-2021:** Escuela Superior de Ingeniería Informática (primer y segundo año)  
+  *Universidad de Vigo, Ourense.*
+
+## 🌐 Idiomas
+
+- **🇪🇸 Castellano:** Nativo
+- **🇬🇧 Inglés:** Académico (B1), Real (B2)
+- **🇲🇶 Gallego:** Nativo
+
+## 🛠 Habilidades
+
+- **💻 Lenguajes de Programación:** Python, Java, C#, C++
+- **📊 Bases de Datos:** SQL (PL/SQL, MySQL, SQLServer), NoSQL (MongoDB)
+- **🔄 ETL y Webscraping**
+- **🤖 Inteligencia Artificial y Procesamiento de Imágenes y Videos**
+- **🛠 Ecosistema Oracle:** Forms, PL/SQL, BiPublisher, Reports
+
+## 🏆 Experiencia Laboral
+
+### Analista de Base de Datos
+**Edisa Tecnologías de Informática Industrial S.A.**  
+*23/01/2023 - 21/06/2023*
+
+- 🔧 Resolución de incidencias y creación de nuevas actualizaciones dentro del ERP utilizando PL/SQL.
+- 🖥 Desarrollo de nuevas aplicaciones dentro del ERP con Oracle Forms.
+- 📈 Elaboración de informes mediante BiPublisher.
+- 🔄 Migraciones en BiReports.
+
+## 🌟 Logros y Certificaciones
+
+- 🏅 Participación destacada en competiciones de programación como ProgramaMe y torneos de Kaggle.
+- 🎓 Certificaciones profesionales en OpenWebinars, Cursa y MinnaLearn.
+- 🚗 Licencia de conducir vigente.
+
+## 💼 Proyectos Destacados
+
+- **[Proyecto ETL en Python](#):** Implementación de un proceso ETL eficiente para la integración de datos.
+- **[Aplicación de Procesamiento de Imágenes](#):** Desarrollo de una aplicación para el análisis y procesamiento de imágenes usando IA.
+- **[Dashboard de Inteligencia Artificial](#):** Creación de un dashboard interactivo para visualizar resultados de modelos de IA.
+
+## 📬 Contacto
+
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
+
+- **🔗 LinkedIn:** [mi perfil](https://www.linkedin.com/in/david-fernández-reboredo)
+
+---
+
+¡Gracias por visitar mi perfil en GitHub! 🚀
