@@ -9,6 +9,7 @@ To optimize systems and processes, ensure software quality, and contribute to in
 - Software Development
 - Artificial Intelligence
 - Image and Video Processing
+- Aplications Development
 
 ## 🛠 Skills
 
@@ -17,11 +18,6 @@ To optimize systems and processes, ensure software quality, and contribute to in
 - **🔄 ETL and Web Scraping**
 - **🤖 Artificial Intelligence and Image/Video Processing**
 - **🛠 Oracle Ecosystem:** Forms, PL/SQL, BiPublisher, Reports
-
-## 🌟 Achievements and Certifications
-
-- 🏅 Notable participation in programming competitions like ProgramaMe and Kaggle tournaments.
-- 🎓 Professional certifications from OpenWebinars, Cursa, and MinnaLearn.
 
 ## 📬 Contact
 
